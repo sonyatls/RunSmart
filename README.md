@@ -21,6 +21,7 @@
 - Gulp
 - Node.js
 - JavaScript
+- jQuery
 - HTML5
 - CSS3
 - SCSS
