@@ -3,7 +3,7 @@
   <a href="https://sonyatls.github.io/RunSmart" target="_blank">sonyatls.github.io/RunSmart</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./img/demo.jpg" />
+  <img alt="Demo" src="/src/img/demo.jpg" />
 </div>
 
 <br/>
